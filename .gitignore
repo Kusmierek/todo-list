@@ -23,5 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 
-*.css
-*.css.map
+index.css
+index.css.map
