@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# To-do list
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first project created with React. This is to-do list, in which user can add quests and delete them. I am planning to add editting and dates of quests.
 
 ## Available Scripts
 
-In the project directory, you can run:
+To run this app locally, first clone this repository. Then inside the project directory use one of the following scripts:
 
 ### `yarn start`
 
