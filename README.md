@@ -1,6 +1,6 @@
 # To-do list
 
-This is my first project created with React. This is to-do list, in which user can add quests and delete them. I am planning to add editting and dates of quests.
+This is my first project created with React. This is to-do list, in which user can add quests and delete them. I am planning to add editing and dates of quests.
 
 ## Available Scripts
 
